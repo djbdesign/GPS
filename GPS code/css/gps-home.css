@@ -1,0 +1,820 @@
+/* Jack needs haaaaalp */
+
+
+.lav-gradient {
+  background-color: transparent;
+  height: 900px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.lav-field {
+  background-color: transparent;
+  height: 522px;
+  left: -0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 379px;
+  width: 1440px;
+}
+
+.card-1 {
+  border-radius: 10px;
+  background-color: white;
+  padding: 30px;
+  height: 260px;
+  left: 70px;
+  position: absolute;
+  top: 337px;
+  width: 420px;
+  box-shadow: 5px 5px 5px lightgray;
+}
+
+.card-1-button {
+  background-color: transparent;
+  height: 40px;
+  left: 110px;
+  position: absolute;
+  top: 511px;
+  width: 340px;
+}
+
+.card-2 {
+  border-radius: 10px;
+  background-color: white;
+  padding: 30px;
+  height: 260px;
+  left: 525px;
+  position: absolute;
+  top: 337px;
+  width: 420px;
+  box-shadow: 5px 5px 5px lightgray;
+}
+
+
+.card-2-button {
+  background-color: transparent;
+  height: 40px;
+  left: 560px;
+  position: absolute;
+  top: 511px;
+  width: 340px;
+}
+
+.contact-info {
+  background-color: transparent;
+  left: 1060px;
+  position: absolute;
+  top: 150px;
+  width: 204px;
+}
+
+.card-text {
+  line-height: 1.6;
+}
+
+.dir-but-1 {
+  background-color: var(--polo-blue);
+  border-radius: 10px;
+  height: 40px;
+  left: 0px;
+  mix-blend-mode: normal;
+  text-align: center;
+  width: 180px;
+}
+
+.accessibility-side-column {
+  background-color: transparent;
+  height: 377px;
+  left: 1280px;
+  position: absolute;
+  top: 208px;
+  width: 90px;
+}
+
+.translate-group {
+  background-color: transparent;
+  height: 95px;
+  left: 0px;
+  position: absolute;
+  top: 282px;
+  width: 90px;
+}
+
+.translate-group-2 {
+  background-color: transparent;
+  height: 95px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 92px;
+}
+
+.translate-group-3 {
+  background-color: transparent;
+  height: 72px;
+  left: 9px;
+  position: absolute;
+  top: 0px;
+  width: 72px;
+}
+
+.translate-icon {
+  background-color: transparent;
+  height: 72px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 72px;
+}
+
+.translate-blue-circle {
+  background-color: transparent;
+  height: 92px;
+  left: -8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -8px;
+  width: 92px;
+}
+
+.translate-icon-outline {
+  background-color: transparent;
+  height: 35px;
+  left: 19px;
+  position: absolute;
+  top: 19px;
+  width: 35px;
+}
+
+.translate-text {
+  background-color: transparent;
+  height: 15px;
+  left: 0px;
+  letter-spacing: 0.39px;
+  line-height: 13px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 80px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.accessibility-group {
+  background-color: transparent;
+  height: 95px;
+  left: 0px;
+  position: absolute;
+  top: 141px;
+  width: 90px;
+}
+
+.accessibility-group-2 {
+  background-color: transparent;
+  height: 95px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 92px;
+}
+
+.accessibility-group-3 {
+  background-color: transparent;
+  height: 72px;
+  left: 9px;
+  position: absolute;
+  top: 0px;
+  width: 72px;
+}
+
+.accessibility-group-4 {
+  background-color: transparent;
+  height: 72px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 72px;
+}
+
+.accessibility-ellipse-1 {
+  background-color: transparent;
+  height: 92px;
+  left: -8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -8px;
+  width: 92px;
+}
+
+.accessibility-icon {
+  background-color: transparent;
+  height: 35px;
+  left: 21px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 30px;
+}
+
+.accessibility-text {
+  background-color: transparent;
+  height: 15px;
+  left: 0px;
+  letter-spacing: 0.39px;
+  line-height: 13px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 80px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.site-guide-group {
+  background-color: transparent;
+  height: 15px;
+  left: 1282px;
+  letter-spacing: 0.39px;
+  line-height: 13px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 295px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.site-guide-group-1 {
+  background-color: transparent;
+  height: 95px;
+  left: 1280px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 208px;
+  width: 90px;
+}
+
+.site-guide-group-2 {
+  background-color: transparent;
+  height: 72px;
+  left: 9px;
+  position: relative;
+  top: 0px;
+  width: 72px;
+}
+
+.site-guide-group-3 {
+  background-color: transparent;
+  height: 145px;
+  left: -37px;
+  position: absolute;
+  top: -37px;
+  width: 145px;
+}
+
+.bulletin-closed {
+  background-color: transparent;
+  height: 125px;
+  left: 0px;
+  position: absolute;
+  top: 777px;
+  width: 1441px;
+}
+
+.bulletin-bar {
+  background-color: transparent;
+  height: 92px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 32px;
+  width: 1440px;
+}
+
+.bulletin-text {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-karla);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 800;
+  height: 23px;
+  left: 653px;
+  letter-spacing: 0.00px;
+  line-height: 22.8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 835px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.covid-text {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-karla);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+  height: 14px;
+  left: 659px;
+  letter-spacing: 0.42px;
+  line-height: 14px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 868px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.bulletin-up-arrow-box {
+  background-color: transparent;
+  height: 40px;
+  left: 701px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 780px;
+  width: 40px;
+}
+
+.bulletin-up-arrow-box-2 {
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 40px;
+}
+
+.up-arrow {
+  background-color: transparent;
+  height: 48px;
+  left: -4px;
+  position: absolute;
+  top: 0px;
+  width: 48px;
+}
+
+.gps-logo-main {
+  background-color: transparent;
+  height: 70px;
+  left: 70px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 49px;
+  width: 418px;
+}
+
+.search-bar-1 {
+  background-color: transparent;
+  height: 30px;
+  left: 70px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 150px;
+  width: 400px;
+}
+
+.search-bar-2 {
+  background-color: transparent;
+  height: 30px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 400px;
+}
+
+.search-bar-box {
+  background-color: transparent;
+  height: 51px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 402px;
+}
+
+.search-rectangle {
+  background-color: transparent;
+  height: 51px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.magnifying-glass-1 {
+  background-color: transparent;
+  height: 30px;
+  left: 12px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 12px;
+  width: 30px;
+}
+
+.search-text {
+  background-color: transparent;
+  color: #00000080;
+  font-family: var(--font-family-karla);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+  height: 42px;
+  left: 47px;
+  letter-spacing: -0.24px;
+  line-height: 25.6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  width: 278px;
+}
+
+.here-to-help {
+  background-color: transparent;
+  height: 90px;
+  left: 70px;
+  line-height: 100px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: 1031px;
+}
+
+.request-button-1 {
+  background-color: transparent;
+  height: 40px;
+  left: 100px;
+  position: absolute;
+  top: 511px;
+  width: 340px;
+}
+
+.request-button-2 {
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 340px;
+}
+
+.request-button-3 {
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 340px;
+}
+
+.request-button-4 {
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 340px;
+}
+
+.request-services-button-blue-1 {
+  background-color: var(--polo-blue);
+  border-radius: 10px;
+  height: 40px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.request-services-button-blue-2 {
+  background-color: var(--polo-blue);
+  border-radius: 10px;
+  height: 40px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.request-services-button-text {
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  letter-spacing: -0.45px;
+  line-height: 28.8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 340px;
+}
+
+.request-services-button-text-2 {
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  letter-spacing: -0.45px;
+  line-height: 28.8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 340px;
+}
+
+.request-services-button-text-1 {
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  letter-spacing: -0.45px;
+  line-height: 28.8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 340px;
+}
+
+.nav-bar {
+  background-color: transparent;
+  height: 45px;
+  left: 577px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 62px;
+  width: 762px;
+}
+
+.home-frame-1 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 10px;
+  height: 45px;
+  justify-content: center;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 120px;
+}
+
+.home-nav-box {
+  background-color: transparent;
+  height: 45px;
+  position: relative;
+  width: 120px;
+}
+
+.home-blueberry-line {
+  background-color: var(--polo-blue);
+  border-radius: 10px;
+  cursor: pointer;
+  height: 10px;
+  left: 0px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 35px;
+  transition: all 0.2s ease;
+  width: 120px;
+}
+
+.home-blueberry-line:hover {
+  background-color:#440E62;
+  transition: 0.2s;
+}
+
+.home-text {
+  background-color: transparent;
+  height: 30px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22.8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 120px;
+}
+
+.svc-frame-1 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 10px;
+  height: 45px;
+  justify-content: center;
+  left: 165px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 120px;
+}
+
+.svc-frame-2 {
+  background-color: transparent;
+  height: 45px;
+  position: relative;
+  width: 120px;
+}
+
+.svc-blueberry-line {
+  background-color: var(--polo-blue);
+  border-radius: 10px;
+  cursor: pointer;
+  height: 10px;
+  left: 0px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 35px;
+  transition: all 0.2s ease;
+  width: 120px;
+}
+
+.svc-blueberry-line:hover {
+  background-color:#440E62;
+  transition: 0.2s;
+}
+
+.gps-home .svc-text {
+  background-color: transparent;
+  height: 30px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22.8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 120px;
+}
+
+.about-frame-1 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 10px;
+  height: 45px;
+  justify-content: center;
+  left: 483px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 120px;
+}
+
+.about-frame-2 {
+  background-color: transparent;
+  height: 45px;
+  position: relative;
+  width: 120px;
+}
+
+.about-blueberry-line {
+  background-color: var(--polo-blue);
+  border-radius: 10px;
+  cursor: pointer;
+  height: 10px;
+  left: 0px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 35px;
+  transition: all 0.2s ease;
+  width: 120px;
+}
+
+.about-blueberry-line:hover {
+  background-color:#440E62;
+  transition: 0.2s;
+}
+
+.about-gps-text {
+  background-color: transparent;
+  height: 30px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22.8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 120px;
+}
+
+.contact-frame-1 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 10px;
+  height: 45px;
+  justify-content: center;
+  left: 642px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 120px;
+}
+
+.contact-frame-2 {
+  background-color: transparent;
+  height: 45px;
+  position: relative;
+  width: 120px;
+}
+
+.contact-blueberry-line {
+  background-color: var(--polo-blue);
+  border-radius: 10px;
+  cursor: pointer;
+  height: 10px;
+  left: 0px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 35px;
+  transition: all 0.2s ease;
+  width: 120px;
+}
+
+.contact-blueberry-line:hover {
+  background-color:#440E62;
+  transition: 0.2s;
+}
+
+.contact-text {
+  background-color: transparent;
+  height: 30px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22.8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 120px;
+}
+
+.pay-frame-1 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 10px;
+  height: 45px;
+  justify-content: center;
+  left: 324px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 120px;
+}
+
+.pay-frame-2 {
+  background-color: transparent;
+  height: 45px;
+  position: relative;
+  width: 120px;
+}
+
+.pay-blueberry-line {
+  background-color: var(--polo-blue);
+  border-radius: 10px;
+  cursor: pointer;
+  height: 10px;
+  left: 0px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 35px;
+  transition: all 0.2s ease;
+  width: 120px;
+}
+
+.pay-text {
+  background-color: transparent;
+  height: 30px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22.8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 120px;
+}

@@ -1,0 +1,63 @@
+:root { 
+  --black: #000000;
+  --polo-blue: #90a5cd;
+  --scarlet-gum: #440e62;
+  --white: #ffffff;
+ 
+  --font-size-l: 18px;
+  --font-size-m: 17px;
+  --font-size-s: 16px;
+  --font-size-xl: 19px;
+  --font-size-xs: 14px;
+  --font-size-xxl: 96px;
+  --font-size-xxs: 13px;
+ 
+  --font-family-karla: "Karla", Helvetica;
+}
+.karla-extra-light-black-96px {
+  color: var(--black);
+  font-family: var(--font-family-karla);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 200;
+}
+
+.karla-normal-black-17px {
+  color: var(--black);
+  font-family: var(--font-family-karla);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.karla-extra-bold-scarlet-gum-19px {
+  color: var(--scarlet-gum);
+  font-family: var(--font-family-karla);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 800;
+}
+
+.karla-bold-black-18px {
+  color: var(--black);
+  font-family: var(--font-family-karla);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.karla-bold-black-17px {
+  color: var(--black);
+  font-family: var(--font-family-karla);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.karla-normal-black-13px {
+  color: var(--black);
+  font-family: var(--font-family-karla);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
